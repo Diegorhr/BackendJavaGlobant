@@ -30,7 +30,6 @@ public class Circunferencia {
         System.out.println("Ingrese radio: ");
         float radio = scanner.nextFloat();
         this.radio = radio;
-    
     }
     
     public double area(){
