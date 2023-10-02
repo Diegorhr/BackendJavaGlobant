@@ -1,2 +1,2 @@
 # BackendJavaGlobant
-Hola
+Ejercicios Desarrollados en el curso de Java - Globant
